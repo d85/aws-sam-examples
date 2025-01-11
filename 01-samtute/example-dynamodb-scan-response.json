@@ -1,0 +1,22 @@
+{
+  "Items": [
+    { "greeting": { "S": "hello" } },
+    { "greeting": { "S": "bonjour" } }
+  ],
+  "Count": 2,
+  "ScannedCount": 2,
+  "ResponseMetadata": {
+    "RequestId": "8ONN741HEI9FFDAH5DF4PTRGFJVV4KQNSO5AEMVJF66Q9ASUAAJG",
+    "HTTPStatusCode": 200,
+    "HTTPHeaders": {
+      "server": "Server",
+      "date": "Sat, 11 Jan 2025 03:41:23 GMT",
+      "content-type": "application/x-amz-json-1.0",
+      "content-length": "94",
+      "connection": "keep-alive",
+      "x-amzn-requestid": "8ONN741HEI9FFDAH5DF4PTRGFJVV4KQNSO5AEMVJF66Q9ASUAAJG",
+      "x-amz-crc32": "1703878291"
+    },
+    "RetryAttempts": 0
+  }
+}
