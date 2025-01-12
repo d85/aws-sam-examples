@@ -1,0 +1,15 @@
+{
+  "name": "sam_examples",
+  "version": "0.1.0",
+  "description": "sam local examples with lambda and apig",
+  "main": "app.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "scripts": {
+  },
+  "devDependencies": {
+    "aws-sdk": "^2.815.0"
+  }
+}
